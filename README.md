@@ -1,5 +1,5 @@
 # github-final-project
-/*For the fulfillment of the Coursera Requirement for the Github Distributed Version Control system Certificate*/
+/*For the fulfillment of the Coursera Requirement for the Github Distributed Version Control system Certificate*/<br>
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
